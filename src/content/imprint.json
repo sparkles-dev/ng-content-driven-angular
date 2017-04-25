@@ -1,0 +1,25 @@
+{
+  "title": "A wall of text",
+  "_type": "page",
+  "_embedded": {
+    "headline": {
+      "text": "Lorem ipsum dolor sit amet...",
+      "_type": "headline"
+    },
+    "headline_0": {
+      "text": "consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "_type": "headline"
+    },
+    "headline_1": {
+      "text": "Nam liber tempor cum soluta nobis eleifend option.",
+      "_type": "headline"
+    },
+    "headline_2": {
+      "text": "At vero eos et accusam et justo duo dolores et ea rebum.",
+      "_type": "headline"
+    }
+  },
+  "_links": {
+    "self": { "href": "content/imprint.json" }
+  }
+}

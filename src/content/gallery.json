@@ -1,0 +1,61 @@
+{
+  "title": "A gallery of images",
+  "_type": "page",
+  "_embedded": {
+    "grid": {
+      "_type": "grid",
+      "_embedded": {
+        "rows": [
+          {
+            "_type": "row",
+            "_embedded": {
+              "columns": [
+                {
+                  "_type": "column",
+                  "size": 40,
+                  "_embedded": {
+                    "one": {
+                      "src": "//placekitten.com/500/400",
+                      "alt": "First image",
+                      "_type": "image"
+                    }
+                  }
+                },
+                {
+                  "_type": "column",
+                  "size": 40,
+                  "offset": 20,
+                  "_embedded": {
+                    "two": {
+                      "src": "//placekitten.com/500/420",
+                      "alt": "Second image",
+                      "_type": "image"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "_type": "row",
+            "_embedded": {
+              "col0": {
+                "_type": "column",
+                "_embedded": {
+                  "three": {
+                    "src": "//placekitten.com/500/440",
+                    "alt": "Third image",
+                    "_type": "image"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "_links": {
+    "self": { "href": "content/gallery.json" }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Showcasing Reactive Content Rendering in Angular",
+  "_type": "page",
+  "_embedded": {
+    "headline": {
+      "text": "Showcasing Reactive Content Rendering in Angular",
+      "_type": "headline"
+    },
+    "banner": {
+      "src": "//placekitten.com/500/400",
+      "alt": "Great banter here",
+      "_type": "image"
+    },
+    "grid": {
+      "_type": "grid",
+      "_embedded": {
+        "row0": {
+          "_type": "row",
+          "_embedded": {
+            "columns": [
+              {
+                "_type": "column",
+                "size": 66,
+                "_embedded": {
+                  "one": {
+                    "text": "I am a grid column",
+                    "_type": "headline"
+                  }
+                }
+              },
+              {
+                "_type": "column",
+                "size": 33,
+                "_embedded": {
+                  "two": {
+                    "text": "Me too!",
+                    "_type": "headline"
+                  },
+                  "three": {
+                    "src": "https://upload.wikimedia.org/wikipedia/de/thumb/3/3f/Real_Madrid_Logo.svg/1200px-Real_Madrid_Logo.svg.png",
+                    "alt": "Cheating spaniards over here",
+                    "_type": "image"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_links": {
+    "self": { "href": "content/index.json" },
+    "gallery": { "href": "content/gallery.json" },
+    "imprint": { "href": "content/imprint.json" }
+  }
+}
