@@ -1,3 +1,23 @@
+### Content Tree
+
+https://yuml.me/09e3fa25.json
+
+http://yuml.me/edit/09e3fa25
+
+![foo](https://yuml.me/09e3fa25.svg)
+![bar](https://yuml.me/09e3fa25.png)
+
+### Content Tree mapped to Component Instances
+
+http://yuml.me/8cd2a966.json
+
+http://yuml.me/edit/8cd2a966
+
+![foo](https://yuml.me/8cd2a966.svg)
+![bar](https://yuml.me/8cd2a966.png)
+
+
+
 # DynamicContentShowcase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
