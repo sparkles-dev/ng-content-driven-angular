@@ -1,0 +1,8 @@
+<nav *ngIf="links && links.length > 0">
+
+  <button *ngFor="let link of links"
+          (click)="selected.emit(link)"
+          type="button"
+          class="button button-clear">{{ link.rel }}</button>
+
+</nav>
