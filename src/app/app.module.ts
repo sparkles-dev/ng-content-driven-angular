@@ -4,6 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { ContentModule } from './content/content.module';
+import { ReactiveContentModule } from './reactive-content';
 
 @NgModule({
   declarations: [
@@ -12,7 +14,9 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    ContentModule.forRoot(),
+    ReactiveContentModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
