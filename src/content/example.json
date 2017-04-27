@@ -1,0 +1,72 @@
+{
+  "title": "Showcasing Hypermedia-driven Content Rendering in Angular",
+  "_type": "page",
+  "_embedded": {
+    "headline": {
+      "text": "Showcasing Hypermedia-driven Content Rendering in Angular",
+      "_type": "headline"
+    },
+    "grid": {
+      "_type": "grid",
+      "_embedded": {
+        "row0": {
+          "_type": "row",
+          "_embedded": {
+            "columns": [
+              {
+                "_type": "column",
+                "size": 33,
+                "_embedded": {
+                  "one": {
+                    "text": "One column",
+                    "_type": "headline"
+                  },
+                  "banner": {
+                    "src": "//placekitten.com/500/400",
+                    "alt": "Great banter here",
+                    "_type": "image"
+                  }
+                }
+              },
+              {
+                "_type": "column",
+                "size": 33,
+                "_embedded": {
+                  "one": {
+                    "text": "A second",
+                    "_type": "headline"
+                  },
+                  "banner": {
+                    "src": "//placekitten.com/g/500/400",
+                    "alt": "Great banter here",
+                    "_type": "image"
+                  }
+                }
+              },
+              {
+                "_type": "column",
+                "size": 33,
+                "_embedded": {
+                  "two": {
+                    "text": "A third",
+                    "_type": "headline"
+                  },
+                  "three": {
+                    "src": "//placekitten.com/540/400",
+                    "alt": "Cheating spaniards over here",
+                    "_type": "image"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_links": {
+    "self": { "href": "content/index.json" },
+    "gallery": { "href": "content/gallery.json" },
+    "imprint": { "href": "content/imprint.json" }
+  }
+}
