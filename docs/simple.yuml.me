@@ -1,0 +1,13 @@
+// Simple Content Tree Structure
+[page: Page{bg:lavender}]->[headline: Headline|title='Showcasing...'{bg:lavenderblush}]
+[page: Page{bg:lavender}]->[grid: Grid{bg:lavender}]
+[grid: Grid{bg:lavender}]->[row: GridRow{bg:lavender}]
+[row: GridRow{bg:lavender}]->[one: GridColumn{bg:lavender}]
+[row: GridRow{bg:lavender}]->[two: GridColumn{bg:lavender}]
+[row: GridRow{bg:lavender}]->[three: GridColumn{bg:lavender}]
+[one: GridColumn{bg:lavender}]->[head1: Headline|title='One column'{bg:lavenderblush}]
+[two: GridColumn{bg:lavender}]->[head2: Headline|title='A second'{bg:lavenderblush}]
+[three: GridColumn{bg:lavender}]->[head3: Headline|title='A third'{bg:lavenderblush}]
+[one: GridColumn{bg:lavender}]->[img1: Image|src='one.png'{bg:lavenderblush}]
+[two: GridColumn{bg:lavender}]->[img2: Image|src='two.png'{bg:lavenderblush}]
+[three: GridColumn{bg:lavender}]->[img3: Image|src='three.png'{bg:lavenderblush}]
