@@ -1,6 +1,8 @@
 Content-Driven Angular
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spektrakel-blog/ng-content-driven-angular.svg)](https://greenkeeper.io/)
+
 > Complete, narrative stories are published on [Spektrakel Blog @ medium.com](https://medium.com/spektrakel-blog/content-driven-angular/home)
 
  1. [Towards Content-Driven Angular Apps](https://medium.com/spektrakel-blog/towards-content-driven-angular-apps-67b7afd2dd8c)
