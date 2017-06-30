@@ -9,6 +9,7 @@ Content-Driven Angular
 ---
 
 [![CircleCI](https://circleci.com/gh/spektrakel-blog/ng-content-driven-angular/tree/master.svg?style=svg)](https://circleci.com/gh/spektrakel-blog/ng-content-driven-angular/tree/master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/spektrakel-blog/ng-content-driven-angular.svg)](https://greenkeeper.io/)
 
 
 ### Content Tree
