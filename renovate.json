@@ -1,1 +1,13 @@
-{"pinVersions": true}
+{
+  "pinVersions": false,
+  "semanticCommits": true,
+  "semanticPrefix": "chore:",
+  "commitMessage": "{{semanticPrefix}} update {{depName}} to version {{newVersion}}",
+  "packages": [
+    {
+      "packagePattern": "^@angular\/.*",
+      "groupName": "angular",
+      "pinVersions": false
+    }
+  ]
+}
