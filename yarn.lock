@@ -172,9 +172,9 @@
   dependencies:
     "@angular-devkit/core" "0.0.20"
 
-"@types/jasmine@2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-2.6.0.tgz#997b41a27752b4850af2683bc4a8d8222c25bd02"
+"@types/jasmine@2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-2.6.1.tgz#44eb4a13c51e65151d996da0ffd7e6f9857a144c"
 
 "@types/node@^6.0.46":
   version "6.0.90"
